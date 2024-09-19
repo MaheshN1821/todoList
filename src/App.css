@@ -1,0 +1,10 @@
+.playwrite-gb-s-newFont {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 350;
+  font-style: normal;
+}
+
+* {
+  font-family: "Playwrite GB S", cursive;
+}
