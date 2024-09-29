@@ -104,3 +104,22 @@ h1 {
     background-image: url("../../assets/images/three.jpg");
   }
 }
+
+@media screen and (min-width: 720px) {
+  .container {
+    width: 640px;
+    height: 520px;
+  }
+
+  .getdata {
+    width: 525px;
+  }
+
+  .homein {
+    width: 400px;
+  }
+
+  .displaydata {
+    width: 500px;
+  }
+}

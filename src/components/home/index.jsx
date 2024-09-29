@@ -52,7 +52,13 @@ function Home() {
               />
             ))
           ) : (
-            <p style={{ textAlign: "center", marginTop: "10px" }}>
+            <p
+              style={{
+                textAlign: "center",
+                marginTop: "10px",
+                fontSize: "1.6rem",
+              }}
+            >
               No tasks pending!
             </p>
           )}
